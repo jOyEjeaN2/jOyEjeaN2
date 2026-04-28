@@ -1,6 +1,8 @@
-## Hi! I'm YeJin ✌️
-AI & ML Engineer
-![Gitanimals](https://render.gitanimals.org/lines/jOyEjeaN2)
+## Hi! I'm YeJin ✌️ 
+***AI & ML Engineer***
+
+![Gitanimals Farm](https://render.gitanimals.org/farms/jOyEjeaN2)
+
 
 &nbsp; 
 
@@ -30,3 +32,7 @@ AI & ML Engineer
 ***Used Skills*** </br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=social&logo=react) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=social&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=social&logo=css3)
 
+
+<!--
+![Gitanimals](https://render.gitanimals.org/lines/jOyEjeaN2)
+-->
