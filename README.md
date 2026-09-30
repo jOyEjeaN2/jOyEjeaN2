@@ -9,7 +9,7 @@
 ***💻 Feautred Projects***
 | Project | Description | Github |
 | :---: | :---: | :---: |
-| **CodoC** | AI 기반 코딩 테스트 문해력 향상 및 퀴즈 학습 플랫폼 | [CodoC Github](https://github.com/orgs/100-hours-a-week/teams/12-1/repositories) |
+| **CodoC** | AI 기반 코딩 테스트 문해력 향상 및 퀴즈 학습 플랫폼 | [CodoC Github](https://github.com/100-hours-a-week/12-codoc-12-analysisAI)  |
 | **실록샐록** | 조선왕조실록 데이터 기반 역사학습 챗봇 (KCI 논문 게재) | [실록샐록 Github](https://github.com/HSORI-SLSL) |
 
 &nbsp; 
